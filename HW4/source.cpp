@@ -8,7 +8,7 @@
 #include <set>
 #include <cstdlib>
 #include <ctime>
-#include "binarySearchTree.h"
+#include "binary_search_tree.h"
 
 using namespace std;
 
